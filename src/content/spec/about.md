@@ -1,9 +1,8 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+Hi, I'm a software engineer. I'm interested in software security and AI.
 
-::github{repo="saicaca/fuwari"}
+I'm currently doing my Phd in System and Software Security at [University of Manchester](https://www.manchester.ac.uk/).
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+I share some paper notes here and some study notes there.
+
+I try to record my research as well but I am not sure if I should share it here.
