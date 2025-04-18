@@ -1,6 +1,6 @@
 ---
 title: Reading_Club_1
-published: 2025-04-18
+published: 2025-01-11
 description: ''
 image: ''
 tags: [LLM, reading club]
