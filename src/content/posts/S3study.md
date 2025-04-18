@@ -4,7 +4,7 @@ published: 2025-04-17
 description: ''
 image: ''
 tags: ["Software Security", "Self Study"]
-category: ''
+category: S3Study
 draft: false 
 lang: ''
 ---

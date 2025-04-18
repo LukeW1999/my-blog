@@ -3,7 +3,7 @@ title: algorithm_MCTS
 published: 2025-04-18
 description: ''
 image: ''
-tags: []
+tags: [MCTS,Algorithm]
 category: ''
 draft: false 
 lang: ''
