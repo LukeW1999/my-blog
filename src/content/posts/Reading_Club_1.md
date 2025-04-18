@@ -3,8 +3,8 @@ title: Reading_Club_1
 published: 2025-04-18
 description: ''
 image: ''
-tags: []
-category: ''
+tags: [LLM, reading club]
+category: Reading_Club
 draft: false 
 lang: ''
 ---
